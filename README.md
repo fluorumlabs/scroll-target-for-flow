@@ -17,6 +17,8 @@ ScrollTarget target = new ScrollTarget(new Paragraph("..."));
 target.ensureVisibility();
 ```
 
+![ScrollTarget demo recording](https://raw.githubusercontent.com/fluorumlabs/scroll-target-for-flow/master/demo-recording.gif)
+
 ## Methods
 
 ```java
@@ -49,8 +51,4 @@ ScrollTarget.ensureVisibility(<delay_in_milliseconds>);
    <url>http://maven.vaadin.com/vaadin-addons</url>
 </repository>
 ```
-
-# Demo
-
-![ScrollTarget demo recording](https://raw.githubusercontent.com/fluorumlabs/scroll-target-for-flow/master/demo-recording.gif)
 
